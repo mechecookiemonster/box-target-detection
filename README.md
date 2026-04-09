@@ -10,6 +10,6 @@ pip install -r requirements.txt
 
 Built as my contribution to a team project — the pipeline was later integrated and extended by the team for the full robot system.
 
-## Stack: Python, OpenCV
+### Stack:### Python, OpenCV
 
-## Intended hardware: Raspberry Pi camera
+### Intended hardware:### Raspberry Pi camera
