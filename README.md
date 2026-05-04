@@ -14,4 +14,4 @@ Built as my contribution to a team project — the pipeline was later integrated
 
 **Intended hardware:** Raspberry Pi camera
 
-**Related:** [VLA Perception Experiments, LLaVA] (https://github.com/mechecookiemonster/llava-robotics-experiments)
+**Related:** [VLA Perception Experiments, LLaVA ](https://github.com/mechecookiemonster/llava-robotics-experiments)
